@@ -21,3 +21,6 @@ This is a simple Python-based command-line tool that continuously pings a specif
 ## Usage:
 ```bash
 ./ping_url.py <URL>
+
+
+<img width="1512" alt="Skärmavbild 2024-09-11 kl  12 49 47" src="https://github.com/user-attachments/assets/488dcfb6-beaa-48fd-935b-b6f5599d01a6">
